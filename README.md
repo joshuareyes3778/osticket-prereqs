@@ -22,11 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- IIS must be enabled by enabling CGI and Common HTTP Features in Windows Features
+- Have a web platform installed
+- PHP Manager must be installed
+- Having a PHP directory in the C: drive
+- Install and create an account for MySQL
+- Installing a C++ redistributable
+- Installing HeidiSQLand connecting it to the mySQL server
 
 <h2>Installation Steps</h2>
 
