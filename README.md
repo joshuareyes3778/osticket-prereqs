@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-In order to begin installing osTicket, you will first need a machine to set all of this up on. A Windows 10 virtual machine was used in this example. The first thing that was done was that IIS needed to be enabled. This was done by enabling CGI, Common HTTP Features, and the IIS Management console all under "Turn Windows Features On or Off." Once this was set up and tested by going to 127.0.0.1, a PHP Manager and Rewrite Module were installed. In preparation for the next step, a directory of C:\PHP was created on the C drive. Then PHP 7.3.8 was downloaded and unzipped into the previously created c:\PHP directory. Two more things were installed: a C++ Redistributable and a MySQL server for osTicket to use. The MySQL server required a some credentials, so those were noted and used to complete the installation process.
+In order to begin installing osTicket, you will first need a machine to set all of this up on. A Windows 10 virtual machine was used in this example. The first thing that was done was that IIS needed to be enabled. This was done by enabling CGI, Common HTTP Features, and the IIS Management console all under "Turn Windows Features On or Off." Once this was set up and tested by going to 127.0.0.1, a PHP Manager and Rewrite Module were installed. In preparation for the next step, a directory of C:\PHP was created on the C drive. Then PHP 7.3.8 was downloaded and unzipped into the previously created c:\PHP directory. Two more things were installed: a C++ Redistributable and a MySQL server for osTicket to use. The MySQL server required a some credentials, so those were noted and used to complete the installation process. Now that all of this was set up, the PHP was registered from within IIS. After that, osTicket is ready to be installed. 
 </p>
 <br />
 
@@ -41,7 +41,7 @@ In order to begin installing osTicket, you will first need a machine to set all 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+a
 </p>
 <br />
 
