@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-In the machine of your choice, IIS must first be enabled. This is done in Turn Windows Features On or Off, which is under Programs.
+In order to begin installing osTicket, you will first need a machine to set all of this up on. A Windows 10 virtual machine was used in this example. The first thing that was done was that IIS needed to be enabled. This was done by enabling CGI, Common HTTP Features, and the IIS Management console all under "Turn Windows Features On or Off." Once this was set up and tested by going to 127.0.0.1, a PHP Manager and Rewrite Module were installed. In preparation for later steeps, a directory of C:\PHP was created on the C drive. 
 </p>
 <br />
 
