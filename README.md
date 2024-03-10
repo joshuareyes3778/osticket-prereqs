@@ -41,7 +41,7 @@ In order to begin installing osTicket, you will first need a machine to set all 
 
 </p>
 <p>
-Before anything was done with osTicket itself, an "osticket" folder was made in c:\inetpub\wwwroot. Then within IIS, some extensions were enabled for osTicket now that it was accessible in IIS. In the PHP Manager, the extensions that were enabled were the "imap," "intl," and "opcache" ones. Next, a sample ostconfig folder in the wwwroot folder was renamed to remove the sample part of it. This same file had its permissions changed so that osTicket could freely make changes to it
+
 </p>
 <br />
 
