@@ -38,17 +38,6 @@ In order to begin installing osTicket, you will first need a machine to set all 
 <br />
 
 <p>
-Once osTicket was installed, only a few more things needed to be done. Some extensions for osTicket were enabled from within IIS: "php_imap," "php_intl," and "php_opcache." At this time a folder (C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig) was renamed to C:\inetpub\wwwroot\osTicket\include\ost-config, simply removing the sample portion from the name. This same folder had its permissions changed to allow anyone to change them. This was done so that the osTicket program could actually work with it correctly. 
+Once osTicket was installed, only a few more things needed to be done. Some extensions for osTicket were enabled from within IIS: "php_imap," "php_intl," and "php_opcache." At this time a file (C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig) was renamed to C:\inetpub\wwwroot\osTicket\include\ost-config, simply removing the sample portion from the name. This same folder had its permissions changed to allow anyone to change them. This was done so that the osTicket program could edit the data within properly. After downloading osTicket, a browser page came up showing the status of it and its necessary extensions. With this prior step completed, it was ready to be set up for its basic installation in a browser. One last program that was installed was HeidiSQL. A new session was created and connected to. A database called "osTTicket" was created for osTicket to use. After this the credentials to log into osTicket were created and the program was finally installed for use.
 </p>
-<p>
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
